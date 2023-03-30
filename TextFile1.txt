@@ -1,1 +1,2 @@
 This is textfile 1
+it is followed by textfile 2
